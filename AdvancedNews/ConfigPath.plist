@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>MAINNETPATH</key>
+	<string>http://192.168.172.189:8080/shunhecore/ http://readpaper.beikgroup.com/ http://101.200.73.206:80/ </string>
+	<key>CLOUDPUSH</key>
+	<string>http://readpaper.beikgroup.com/</string>
+</dict>
+</plist>
